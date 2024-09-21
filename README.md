@@ -57,5 +57,7 @@ Upon successful execution, the user is able to simulate a shopping session, sele
 Future Enhancements:
 
 Add more categories and brands.
+
 Improve the UI by using graphical libraries.
+
 Add support for multiple users.
