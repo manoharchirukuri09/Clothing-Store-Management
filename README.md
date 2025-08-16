@@ -1,6 +1,6 @@
 Description
 
-This is a simple C program that simulates a shopping experience in a mall where users can browse items across categories like men's wear, women's wear, and kids' wear, make selections, calculate the total cost, apply discounts, and proceed to payment.
+This is a simple Java program that simulates a shopping experience in a mall where users can browse items across categories like men's wear, women's wear, and kids' wear, make selections, calculate the total cost, apply discounts, and proceed to payment.
 
 Objectives:
 
