@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class gui {
+public class Main {
 
     public static void main(String[] args) {
         // --- Setup ---
